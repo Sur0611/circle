@@ -1,0 +1,26 @@
+.circle{
+  height: 50px;
+  width: 50px;
+  border: 2px solid #000;
+  border-radius: 50px;
+  margin-bottom: 2px
+}
+
+.container { 
+  width: 800px;
+  margin: 0 auto;
+}
+.circle-section    {
+  width: 200px;
+  float: left;
+}
+
+.pbutton-section  {
+  width: 600px;
+  margin-left: 200px;
+}
+
+.btns{
+  margin-right: 2px;
+}
+
